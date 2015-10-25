@@ -1,4 +1,5 @@
 Introduction
+
 The script run_analysis.R performs the 5 steps described in the course project.
 
 The intitial lines are used for downloading and unzipping the data; please remove these if you've already put the data in your directory (and remember to change directories to the one with the data)
